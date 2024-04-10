@@ -1,5 +1,6 @@
-# fyp
-MLE4101B: M. Eng. Dissertation
+# MLE4101B: M. Eng. Dissertation
+
+<img width="394" alt="image" src="https://github.com/ryansui00/fyp/assets/166421335/6dbd6ff0-f304-4170-8c39-d2ffe5cbf32e">
 
 Research Topic: Utilizing Machine Learning in Conjunction with Density Functional Theory for Rapid Prediction and Screening of Low Bandgap Polymers
 
